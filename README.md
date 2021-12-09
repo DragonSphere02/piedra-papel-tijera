@@ -8,3 +8,5 @@ El juego incluye:
 - Ganador
 - Marcadores
 - Bucles o repeticiones
+
+Si te gustó, da una estrellita uwu
